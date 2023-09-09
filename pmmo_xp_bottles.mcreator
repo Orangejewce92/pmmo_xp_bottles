@@ -717,19 +717,6 @@
           "src/main/resources/data/minecraft/loot_tables/chests/simple_dungeon.json"
         ]
       }
-    },
-    {
-      "name": "PmmoApi",
-      "type": "code",
-      "sortid": 56,
-      "compiles": true,
-      "locked_code": true,
-      "registry_name": "pmmo_api",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/pmmoxpbottles/PmmoApi.java"
-        ]
-      }
     }
   ],
   "variable_elements": [],
