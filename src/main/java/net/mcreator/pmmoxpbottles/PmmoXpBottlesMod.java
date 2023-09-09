@@ -48,11 +48,10 @@ public class PmmoXpBottlesMod {
 
 	public PmmoXpBottlesMod() {
 		MinecraftForge.EVENT_BUS.register(this);
+		PmmoXpBottlesModTabs.load();
 		IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
 
 		PmmoXpBottlesModItems.REGISTRY.register(bus);
-
-		PmmoXpBottlesModTabs.REGISTRY.register(bus);
 
 	}
 

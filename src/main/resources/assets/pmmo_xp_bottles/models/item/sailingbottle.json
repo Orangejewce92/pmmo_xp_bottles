@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "pmmo_xp_bottles:item/longer_invis"
+    "layer0": "pmmo_xp_bottles:items/longer_invis"
   }
 }

@@ -10,11 +10,14 @@ import net.minecraft.world.food.FoodProperties;
 import net.minecraft.world.entity.player.Player;
 import net.minecraft.world.entity.LivingEntity;
 
+import net.mcreator.pmmoxpbottles.init.PmmoXpBottlesModTabs;
 import net.mcreator.pmmoxpbottles.init.PmmoXpBottlesModItems;
 
 public class WoodCuttingBottleItem extends Item {
 	public WoodCuttingBottleItem() {
-		super(new Item.Properties().stacksTo(64).rarity(Rarity.RARE).food((new FoodProperties.Builder()).nutrition(0).saturationMod(0f).alwaysEat().build()));
+		super(new Item.Properties().tab(PmmoXpBottlesModTabs.TAB_PMMOXPBOTTLES).stacksTo(64).rarity(Rarity.RARE).food((new FoodProperties.Builder()).nutrition(0).saturationMod(0f).alwaysEat()
+
+				.build()));
 	}
 
 	@Override

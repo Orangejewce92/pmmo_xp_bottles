@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "pmmo_xp_bottles:item/long_poison"
+    "layer0": "pmmo_xp_bottles:items/long_poison"
   }
 }

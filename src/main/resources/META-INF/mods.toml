@@ -1,5 +1,5 @@
 modLoader="javafml"
-loaderVersion="[47,)"
+loaderVersion="[43,)"
 license="Academic Free License v3.0"
 
 [[mods]]
@@ -14,7 +14,7 @@ description="Xp bottles that spawn in vanilla chests!"
 [[dependencies.pmmo_xp_bottles]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.20.1]"
+    versionRange="[1.19.2]"
     ordering="NONE"
     side="BOTH"
 

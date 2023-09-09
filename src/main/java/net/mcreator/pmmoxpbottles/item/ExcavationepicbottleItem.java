@@ -14,9 +14,13 @@ import net.minecraft.world.food.FoodProperties;
 import net.minecraft.world.entity.player.Player;
 import net.minecraft.world.entity.LivingEntity;
 
+import net.mcreator.pmmoxpbottles.init.PmmoXpBottlesModTabs;
+
 public class ExcavationepicbottleItem extends Item {
 	public ExcavationepicbottleItem() {
-		super(new Item.Properties().stacksTo(64).rarity(Rarity.EPIC).food((new FoodProperties.Builder()).nutrition(0).saturationMod(0f).alwaysEat().build()));
+		super(new Item.Properties().tab(PmmoXpBottlesModTabs.TAB_PMMOXPBOTTLES).stacksTo(64).rarity(Rarity.EPIC).food((new FoodProperties.Builder()).nutrition(0).saturationMod(0f).alwaysEat()
+
+				.build()));
 	}
 
 	@Override
