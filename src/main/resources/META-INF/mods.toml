@@ -1,0 +1,23 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="pmmo_xp_bottles"
+version="4.0.0"
+displayName="PMMO XP Bottles"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net"
+authors="orangejewce92"
+description="Xp bottles that spawn in vanilla chests!"
+
+[[dependencies.pmmo_xp_bottles]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
