@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "long_night_vision",
+    "texture": "farming",
     "customModelName": "Normal",
     "customProperties": {},
     "states": [],

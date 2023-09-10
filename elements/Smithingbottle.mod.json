@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "long_water_breathing",
+    "texture": "smithing",
     "customModelName": "Normal",
     "customProperties": {},
     "states": [],

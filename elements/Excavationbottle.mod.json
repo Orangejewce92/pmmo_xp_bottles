@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "l_tm",
+    "texture": "excavation",
     "customModelName": "Normal",
     "customProperties": {},
     "states": [],

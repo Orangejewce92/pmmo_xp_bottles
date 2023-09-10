@@ -278,272 +278,6 @@
       }
     },
     {
-      "name": "Woodcuttingepicbottle",
-      "type": "item",
-      "sortid": 23,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "woodcuttingepicbottle",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/pmmo_xp_bottles/models/item/woodcuttingepicbottle.json",
-          "src/main/java/net/mcreator/pmmoxpbottles/item/WoodcuttingepicbottleItem.java"
-        ]
-      }
-    },
-    {
-      "name": "Miningepicbottle",
-      "type": "item",
-      "sortid": 24,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "miningepicbottle",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/pmmo_xp_bottles/models/item/miningepicbottle.json",
-          "src/main/java/net/mcreator/pmmoxpbottles/item/MiningepicbottleItem.java"
-        ]
-      }
-    },
-    {
-      "name": "Buildingepicbottle",
-      "type": "item",
-      "sortid": 25,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "buildingepicbottle",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/pmmoxpbottles/item/BuildingepicbottleItem.java",
-          "src/main/resources/assets/pmmo_xp_bottles/models/item/buildingepicbottle.json"
-        ]
-      }
-    },
-    {
-      "name": "Excavationepicbottle",
-      "type": "item",
-      "sortid": 26,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "excavationepicbottle",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/pmmoxpbottles/item/ExcavationepicbottleItem.java",
-          "src/main/resources/assets/pmmo_xp_bottles/models/item/excavationepicbottle.json"
-        ]
-      }
-    },
-    {
-      "name": "Farmingepicbottle",
-      "type": "item",
-      "sortid": 27,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "farmingepicbottle",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/pmmo_xp_bottles/models/item/farmingepicbottle.json",
-          "src/main/java/net/mcreator/pmmoxpbottles/item/FarmingepicbottleItem.java"
-        ]
-      }
-    },
-    {
-      "name": "Agilityepicbottle",
-      "type": "item",
-      "sortid": 28,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "agilityepicbottle",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/pmmo_xp_bottles/models/item/agilityepicbottle.json",
-          "src/main/java/net/mcreator/pmmoxpbottles/item/AgilityepicbottleItem.java"
-        ]
-      }
-    },
-    {
-      "name": "Enduranceepicbottle",
-      "type": "item",
-      "sortid": 29,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "enduranceepicbottle",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/pmmoxpbottles/item/EnduranceepicbottleItem.java",
-          "src/main/resources/assets/pmmo_xp_bottles/models/item/enduranceepicbottle.json"
-        ]
-      }
-    },
-    {
-      "name": "Combatepicbottle",
-      "type": "item",
-      "sortid": 30,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "combatepicbottle",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/pmmo_xp_bottles/models/item/combatepicbottle.json",
-          "src/main/java/net/mcreator/pmmoxpbottles/item/CombatepicbottleItem.java"
-        ]
-      }
-    },
-    {
-      "name": "Gunslingingepicbottle",
-      "type": "item",
-      "sortid": 31,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "gunslingingepicbottle",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/pmmo_xp_bottles/models/item/gunslingingepicbottle.json",
-          "src/main/java/net/mcreator/pmmoxpbottles/item/GunslingingepicbottleItem.java"
-        ]
-      }
-    },
-    {
-      "name": "Archeryepicbottle",
-      "type": "item",
-      "sortid": 32,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "archeryepicbottle",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/pmmoxpbottles/item/ArcheryepicbottleItem.java",
-          "src/main/resources/assets/pmmo_xp_bottles/models/item/archeryepicbottle.json"
-        ]
-      }
-    },
-    {
-      "name": "Smithingepicbottle",
-      "type": "item",
-      "sortid": 33,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "smithingepicbottle",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/pmmo_xp_bottles/models/item/smithingepicbottle.json",
-          "src/main/java/net/mcreator/pmmoxpbottles/item/SmithingepicbottleItem.java"
-        ]
-      }
-    },
-    {
-      "name": "Craftingepicbottle",
-      "type": "item",
-      "sortid": 34,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "craftingepicbottle",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/pmmoxpbottles/item/CraftingepicbottleItem.java",
-          "src/main/resources/assets/pmmo_xp_bottles/models/item/craftingepicbottle.json"
-        ]
-      }
-    },
-    {
-      "name": "Magicepicbottle",
-      "type": "item",
-      "sortid": 35,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "magicepicbottle",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/pmmo_xp_bottles/models/item/magicepicbottle.json",
-          "src/main/java/net/mcreator/pmmoxpbottles/item/MagicepicbottleItem.java"
-        ]
-      }
-    },
-    {
-      "name": "Slayerepicbottle",
-      "type": "item",
-      "sortid": 36,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "slayerepicbottle",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/pmmo_xp_bottles/models/item/slayerepicbottle.json",
-          "src/main/java/net/mcreator/pmmoxpbottles/item/SlayerepicbottleItem.java"
-        ]
-      }
-    },
-    {
-      "name": "Hunterepicbottle",
-      "type": "item",
-      "sortid": 37,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "hunterepicbottle",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/pmmoxpbottles/item/HunterepicbottleItem.java",
-          "src/main/resources/assets/pmmo_xp_bottles/models/item/hunterepicbottle.json"
-        ]
-      }
-    },
-    {
-      "name": "Tamingepicbottle",
-      "type": "item",
-      "sortid": 38,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "tamingepicbottle",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/pmmo_xp_bottles/models/item/tamingepicbottle.json",
-          "src/main/java/net/mcreator/pmmoxpbottles/item/TamingepicbottleItem.java"
-        ]
-      }
-    },
-    {
-      "name": "Cookingepicbottle",
-      "type": "item",
-      "sortid": 39,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "cookingepicbottle",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/pmmo_xp_bottles/models/item/cookingepicbottle.json",
-          "src/main/java/net/mcreator/pmmoxpbottles/item/CookingepicbottleItem.java"
-        ]
-      }
-    },
-    {
-      "name": "Alchemyepicbottle",
-      "type": "item",
-      "sortid": 40,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "alchemyepicbottle",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/pmmoxpbottles/item/AlchemyepicbottleItem.java",
-          "src/main/resources/assets/pmmo_xp_bottles/models/item/alchemyepicbottle.json"
-        ]
-      }
-    },
-    {
-      "name": "Engineeringepicbottle",
-      "type": "item",
-      "sortid": 41,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "engineeringepicbottle",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/pmmo_xp_bottles/models/item/engineeringepicbottle.json",
-          "src/main/java/net/mcreator/pmmoxpbottles/item/EngineeringepicbottleItem.java"
-        ]
-      }
-    },
-    {
       "name": "Fishingbottle",
       "type": "item",
       "sortid": 42,
@@ -558,20 +292,6 @@
       }
     },
     {
-      "name": "Fishingepicbottle",
-      "type": "item",
-      "sortid": 43,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "fishingepicbottle",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/pmmo_xp_bottles/models/item/fishingepicbottle.json",
-          "src/main/java/net/mcreator/pmmoxpbottles/item/FishingepicbottleItem.java"
-        ]
-      }
-    },
-    {
       "name": "Sailingbottle",
       "type": "item",
       "sortid": 44,
@@ -582,20 +302,6 @@
         "files": [
           "src/main/java/net/mcreator/pmmoxpbottles/item/SailingbottleItem.java",
           "src/main/resources/assets/pmmo_xp_bottles/models/item/sailingbottle.json"
-        ]
-      }
-    },
-    {
-      "name": "Sailingepicbottle",
-      "type": "item",
-      "sortid": 45,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "sailingepicbottle",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/pmmo_xp_bottles/models/item/sailingepicbottle.json",
-          "src/main/java/net/mcreator/pmmoxpbottles/item/SailingepicbottleItem.java"
         ]
       }
     },
@@ -666,20 +372,6 @@
       }
     },
     {
-      "name": "Swimmingepicbottle",
-      "type": "item",
-      "sortid": 51,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "swimmingepicbottle",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/pmmoxpbottles/item/SwimmingepicbottleItem.java",
-          "src/main/resources/assets/pmmo_xp_bottles/models/item/swimmingepicbottle.json"
-        ]
-      }
-    },
-    {
       "name": "Ruinedportal",
       "type": "loottable",
       "sortid": 53,
@@ -723,52 +415,30 @@
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.pmmo_xp_bottles.alchemyepicbottle": "Alchemy XP Bottle",
       "item.pmmo_xp_bottles.cookingbottle": "Cooking XP Bottle",
-      "item.pmmo_xp_bottles.slayerepicbottle": "Slayer XP Bottle",
       "item.pmmo_xp_bottles.slayerbottle": "Slayer XP Bottle",
       "item.pmmo_xp_bottles.sailingbottle": "Sailing XP Bottle",
-      "item.pmmo_xp_bottles.fishingepicbottle": "Fishing XP Bottle",
       "item.pmmo_xp_bottles.combatbottle": "Combat XP Bottle",
       "item.pmmo_xp_bottles.wood_cutting_bottle": "Woodcutting XP Bottle",
-      "item.pmmo_xp_bottles.woodcuttingepicbottle": "Woodcutting XP Bottle",
-      "item.pmmo_xp_bottles.miningepicbottle": "Mining XP Bottle",
       "item.pmmo_xp_bottles.smithingbottle": "Smithing XP Bottle",
       "item.pmmo_xp_bottles.gunslingingbottle": "Gunslinging XP Bottle",
-      "item.pmmo_xp_bottles.farmingepicbottle": "Farming XP Bottle",
-      "item.pmmo_xp_bottles.tamingepicbottle": "Taming XP Bottle",
       "item.pmmo_xp_bottles.hunterbottle": "Hunter XP Bottle",
       "item.pmmo_xp_bottles.tamingbottle": "Taming XP Bottle",
       "item.pmmo_xp_bottles.farmingbottle": "Farming XP Bottle",
       "item.pmmo_xp_bottles.buildingbottle": "Building XP Bottle",
-      "item.pmmo_xp_bottles.combatepicbottle": "Combat XP Bottle",
       "item.pmmo_xp_bottles.archerybottle": "Archery XP Bottle",
-      "item.pmmo_xp_bottles.hunterepicbottle": "Hunter XP Bottle",
-      "item.pmmo_xp_bottles.engineeringepicbottle": "Engineering XP Bottle",
-      "item.pmmo_xp_bottles.sailingepicbottle": "Sailing XP Bottle",
       "itemGroup.tabpmmoxpbottles": "PMMO XP Bottles",
       "item.pmmo_xp_bottles.excavationbottle": "Excavation XP Bottle",
       "item.pmmo_xp_bottles.agilitybottle": "Agility XP Bottle",
       "item.pmmo_xp_bottles.magicbottle": "Magic XP Bottle",
-      "item.pmmo_xp_bottles.smithingepicbottle": "Smithing XP Bottle",
       "item.pmmo_xp_bottles.craftingbottle": "Crafting XP Bottle",
       "item.pmmo_xp_bottles.alchemybottle": "Alchemy XP Bottle",
-      "item.pmmo_xp_bottles.buildingepicbottle": "Building XP Bottle",
       "item.pmmo_xp_bottles.miningbottle": "Mining XP Bottle",
       "item.pmmo_xp_bottles.endurancebottle": "Endurance XP Bottle",
-      "item.pmmo_xp_bottles.swimmingepicbottle": "swimming XP Bottle",
-      "item.pmmo_xp_bottles.gunslingingepicbottle": "Gunslinging XP Bottle",
-      "item.pmmo_xp_bottles.archeryepicbottle": "Archery XP Bottle",
-      "item.pmmo_xp_bottles.excavationepicbottle": "Excavation XP Bottle",
       "item.pmmo_xp_bottles.swimmingbottle": "swimming XP Bottle",
-      "item.pmmo_xp_bottles.craftingepicbottle": "Crafting XP Bottle",
-      "item.pmmo_xp_bottles.magicepicbottle": "Magic XP Bottle",
       "item_group.pmmo_xp_bottles.pmmoxpbottles": "PMMO XP Bottles",
-      "item.pmmo_xp_bottles.enduranceepicbottle": "Endurance XP Bottle",
       "item.pmmo_xp_bottles.fishingbottle": "Fishing XP Bottle",
-      "item.pmmo_xp_bottles.engineeringbottle": "Engineering XP Bottle",
-      "item.pmmo_xp_bottles.agilityepicbottle": "Agility XP Bottle",
-      "item.pmmo_xp_bottles.cookingepicbottle": "Cooking XP Bottle"
+      "item.pmmo_xp_bottles.engineeringbottle": "Engineering XP Bottle"
     }
   },
   "foldersRoot": {

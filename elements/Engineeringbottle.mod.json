@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "long_fire_resistance",
+    "texture": "engineering",
     "customModelName": "Normal",
     "customProperties": {},
     "states": [],

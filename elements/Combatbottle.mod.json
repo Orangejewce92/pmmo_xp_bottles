@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "long_strength",
+    "texture": "combat",
     "customModelName": "Normal",
     "customProperties": {},
     "states": [],

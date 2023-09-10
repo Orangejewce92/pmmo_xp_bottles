@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "pmmo_xp_bottles:items/long_night_vision"
+    "layer0": "pmmo_xp_bottles:items/farming"
   }
 }

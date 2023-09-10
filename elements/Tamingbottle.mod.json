@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "white_dye",
+    "texture": "taming",
     "customModelName": "Normal",
     "customProperties": {},
     "states": [],

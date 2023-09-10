@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "strong_leaping",
+    "texture": "archery",
     "customModelName": "Normal",
     "customProperties": {},
     "states": [],

@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "long_fire_resistance",
+    "texture": "woodcut",
     "customModelName": "Normal",
     "customProperties": {},
     "states": [],
@@ -35,7 +35,7 @@
     "nutritionalValue": 0,
     "saturation": 0.0,
     "eatResultItem": {
-      "value": "CUSTOM:WoodCuttingBottle"
+      "value": ""
     },
     "isMeat": false,
     "isAlwaysEdible": true,

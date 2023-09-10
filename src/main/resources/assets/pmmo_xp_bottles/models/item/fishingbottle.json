@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "pmmo_xp_bottles:items/lwb"
+    "layer0": "pmmo_xp_bottles:items/fishing"
   }
 }
