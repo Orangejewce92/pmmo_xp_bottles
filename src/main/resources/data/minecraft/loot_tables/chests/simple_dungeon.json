@@ -1,7 +1,7 @@
 {
   "type": "minecraft:chest",
   "pools": [
-  	 {
+    {
       "bonus_rolls": 0.0,
       "entries": [
         {
@@ -287,7 +287,7 @@
           "weight": 10
         }
       ],
-      "rolls": 3.0
+      "rolls": 3
     },
     {
       "rolls": {
@@ -297,7 +297,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "pmmo_xp_bottles:endurancebottle",
+          "name": "pmmo_xp_bottles:endurance",
           "weight": 1,
           "functions": [
             {
@@ -306,12 +306,16 @@
                 "min": 0,
                 "max": 1
               }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{amount: 6500}"
             }
           ]
         },
         {
           "type": "minecraft:item",
-          "name": "pmmo_xp_bottles:magicepicbottle",
+          "name": "pmmo_xp_bottles:farming",
           "weight": 1,
           "functions": [
             {
@@ -320,12 +324,16 @@
                 "min": 0,
                 "max": 1
               }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{amount: 6500,empty:1b}"
             }
           ]
         },
         {
           "type": "minecraft:item",
-          "name": "pmmo_xp_bottles:archeryepicbottle",
+          "name": "pmmo_xp_bottles:magic",
           "weight": 1,
           "functions": [
             {
@@ -334,12 +342,16 @@
                 "min": 0,
                 "max": 1
               }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{amount: 3000}"
             }
           ]
         },
         {
           "type": "minecraft:item",
-          "name": "pmmo_xp_bottles:combatbottle",
+          "name": "pmmo_xp_bottles:archery",
           "weight": 1,
           "functions": [
             {
@@ -348,12 +360,16 @@
                 "min": 0,
                 "max": 1
               }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{amount: 3500}"
             }
           ]
         },
         {
           "type": "minecraft:item",
-          "name": "pmmo_xp_bottles:enduranceepicbottle",
+          "name": "pmmo_xp_bottles:combat",
           "weight": 1,
           "functions": [
             {
@@ -362,6 +378,28 @@
                 "min": 0,
                 "max": 1
               }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{amount: 2500}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "pmmo_xp_bottles:endurance",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{amount: 2500}"
             }
           ]
         }

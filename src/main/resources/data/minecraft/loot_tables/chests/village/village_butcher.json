@@ -101,7 +101,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "pmmo_xp_bottles:farmingbottle",
+          "name": "pmmo_xp_bottles:farming",
           "weight": 1,
           "functions": [
             {
@@ -110,6 +110,10 @@
                 "min": 0,
                 "max": 1
               }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{amount: 1500}"
             }
           ]
         }
@@ -120,7 +124,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "pmmo_xp_bottles:cookingbottle",
+          "name": "pmmo_xp_bottles:cooking",
           "weight": 1,
           "functions": [
             {
@@ -129,6 +133,10 @@
                 "min": 0,
                 "max": 1
               }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{amount: 1500}"
             }
           ]
         }

@@ -1,7 +1,7 @@
 {
   "type": "minecraft:chest",
   "pools": [
-  	 {
+    {
       "bonus_rolls": 0.0,
       "entries": [
         {
@@ -274,7 +274,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "pmmo_xp_bottles:buildingepicbottle",
+          "name": "pmmo_xp_bottles:building",
           "weight": 1,
           "functions": [
             {
@@ -283,12 +283,16 @@
                 "min": 0,
                 "max": 1
               }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{amount: 1500}"
             }
           ]
         },
         {
           "type": "minecraft:item",
-          "name": "pmmo_xp_bottles:combatbottle",
+          "name": "pmmo_xp_bottles:combat",
           "weight": 1,
           "functions": [
             {
@@ -297,12 +301,16 @@
                 "min": 0,
                 "max": 1
               }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{amount: 1500}"
             }
           ]
         },
         {
           "type": "minecraft:item",
-          "name": "pmmo_xp_bottles:alchemyepicbottle",
+          "name": "pmmo_xp_bottles:combat",
           "weight": 1,
           "functions": [
             {
@@ -311,12 +319,16 @@
                 "min": 0,
                 "max": 1
               }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{amount: 5000}"
             }
           ]
         },
         {
           "type": "minecraft:item",
-          "name": "pmmo_xp_bottles:endurancebottle",
+          "name": "pmmo_xp_bottles:alchemy",
           "weight": 1,
           "functions": [
             {
@@ -325,6 +337,46 @@
                 "min": 0,
                 "max": 1
               }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{amount: 1500}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "pmmo_xp_bottles:endurance",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{amount: 1500}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "pmmo_xp_bottles:endurance",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{amount: 1500}"
             }
           ]
         }
