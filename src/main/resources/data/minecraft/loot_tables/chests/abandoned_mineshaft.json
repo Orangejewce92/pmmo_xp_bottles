@@ -324,7 +324,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "pmmo_xp_bottles:endurancebottle",
+          "name": "pmmo_xp_bottles:endurance",
           "weight": 1,
           "functions": [
             {
@@ -333,12 +333,13 @@
                 "min": 0,
                 "max": 1
               }
-            }
+            },
+            {"function": "set_nbt","tag": "amount:1500"}
           ]
         },
         {
           "type": "minecraft:item",
-          "name": "pmmo_xp_bottles:combatepicbottle",
+          "name": "pmmo_xp_bottles:combat",
           "weight": 1,
           "functions": [
             {
@@ -347,12 +348,13 @@
                 "min": 0,
                 "max": 1
               }
-            }
+            },
+            {"function": "set_nbt","tag": "amount:1500"}
           ]
         },
         {
           "type": "minecraft:item",
-          "name": "pmmo_xp_bottles:combatbottle",
+          "name": "pmmo_xp_bottles:archery",
           "weight": 1,
           "functions": [
             {
@@ -361,12 +363,13 @@
                 "min": 0,
                 "max": 1
               }
-            }
+            },
+            {"function": "set_nbt","tag": "amount:1500"}
           ]
         },
         {
           "type": "minecraft:item",
-          "name": "pmmo_xp_bottles:archeryepicbottle",
+          "name": "pmmo_xp_bottles:magic",
           "weight": 1,
           "functions": [
             {
@@ -375,12 +378,13 @@
                 "min": 0,
                 "max": 1
               }
-            }
+            },
+            {"function": "set_nbt","tag": "amount:1500"}
           ]
         },
         {
           "type": "minecraft:item",
-          "name": "pmmo_xp_bottles:archerybottle",
+          "name": "pmmo_xp_bottles:excavation",
           "weight": 1,
           "functions": [
             {
@@ -389,35 +393,8 @@
                 "min": 0,
                 "max": 1
               }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "pmmo_xp_bottles:magicbottle",
-          "weight": 1,
-          "functions": [
-            {
-              "function": "set_count",
-              "count": {
-                "min": 0,
-                "max": 1
-              }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "pmmo_xp_bottles:excavationbottle",
-          "weight": 1,
-          "functions": [
-            {
-              "function": "set_count",
-              "count": {
-                "min": 0,
-                "max": 1
-              }
-            }
+            },
+            {"function": "set_nbt","tag": "amount:1500"}
           ]
         }
       ]
